@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-h6ldws.yoursingles.online/sitemap.xml
